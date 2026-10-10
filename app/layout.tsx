@@ -91,6 +91,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
         />
+        <script
+          src="https://katrix.app/widget.js"
+          data-bot-key="kE2qLR1F4GRogoIkEivZJS72usOhvSelSBl7HmUMLFOT8LTFatIZ2lzL12vvZOFu"
+          defer
+        ></script>
       </head>
       <body suppressHydrationWarning>
         {children}
