@@ -1,0 +1,6 @@
+{
+  "name": "Apex Chartered Accountants | Tax, GST & Audit Advisory",
+  "description": "Chartered Accountancy firm offering Income Tax filing, GST compliance, Statutory Audits, ROC filings, and advisory services. Book a consultation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
